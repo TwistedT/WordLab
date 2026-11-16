@@ -1,0 +1,57 @@
+Term,Phonetics,prefix,root_1,c_vowel_1,root_2,c_vowel_2,root_3,c_vowel_3,suffix_1,suffix_2,Basic Definition
+Agonist,ag'o-nist,,agon,,,,,,ist,,A contender/fighter (stimulator)
+Analgesic,"an""al-je'zik",an,alges,,,,,,ic,,Pertaining to without pain
+Anesthesia,"an""es-the'ze-uh",an,esthes,,,,,,ia,,Condition without sensation
+Anesthetic,"an""es-thet'ik",an,esthet,,,,,,ic,,Pertaining to without sensation
+Antagonist,an-tag'o-nist,,ant,,agon,,,,ist,,A counter contender (inhibitor)
+Anthelmintic,"an""thel-min'tik",,ant,,helmint,,,,ic,,Pertaining to against worms
+Antibacterial,"an""ti-bak-te're-ul",anti,bacteri,,,,,,al,,Pertaining to against bacteria
+Antibiotic,"an""ti-bi-ot'ik",anti,bi,o,,,,,tic,,Pertaining to against life
+Antidote,an'ti-dot,anti,dote,,,,,,,,Given against (poison)
+Antiemetic,"an""ti-e-met'ik",anti,emet,,,,,,ic,,Pertaining to against vomiting
+Antifungal,"an""ti-fung'gul",anti,fung,,,,,,al,,Pertaining to against fungus
+Antipruritic,"an""ti-proo-rit'ik",anti,prurit,,,,,,ic,,Pertaining to against itching
+Antipyretic,"an""ti-pi-ret'ik",anti,pyret,,,,,,ic,,Pertaining to against fever
+Antiseptic,"an""ti-sep'tik",anti,sept,,,,,,ic,,Pertaining to against decay/infection
+Antitussive,"an""ti-tus'iv",anti,tuss,,,,,,ive,,Pertaining to against coughing
+Bactericidal,"bak-te""ri-si'dul",,bacteri,,cid,,,,al,,Pertaining to bacteria killing
+Bacteriostatic,"bak-te""re-o-stat'ik",,bacteri,o,,,,,static,,Pertaining to stopping bacteria
+Biological,"bi""o-loj'i-kul",bi,log,o,,,,,ic,al,Pertaining to biology
+Chemotherapy,"ke""mo-ther'uh-pe",,chem,o,therapy,,,,,,Chemical treatment
+Contraindication,"kon""truh-in""di-ka'shun",contra,indic,a,,,,,tion,,Act of pointing against
+Cytotoxic,"si""to-tok'sik",,cyt,o,tox,,,,ic,,Pertaining to cell poison
+Disinfectant,"dis""in-fek'tant",,dis,,infect,,ant,,,,Apart from infection substance
+Epidural,"ep""i-doo'rul",epi,dur,,,,,,al,,Pertaining to upon dura
+Fungicidal,"fun""ji-si'dul",,fung,i,cid,,,,al,,Pertaining to fungus killing
+Hydrophilic,"hi""dro-fil'ik",,hydr,o,,,,,phil,ic,Pertaining to water loving
+Hydrophobic,"hi""dro-fo'bik",,hydr,o,,,,,phob,ic,Pertaining to water fearing
+Hypodermic,"hi""po-der'mik",hypo,derm,,,,,,ic,,Pertaining to under skin
+Intramuscular,"in""truh-mus'ku-lar",intra,muscul,,,,,,ar,,Pertaining to within muscle
+Intraosseous,"in""truh-os'e-us",intra,osse,,,,,,ous,,Pertaining to within bone
+Intravenous,"in""truh-ve'nus",intra,ven,,,,,,ous,,Pertaining to within vein
+Kilogram,kil'o-gram,,kil,o,,,,,gram,,Thousand grams
+Lipophilic,"lip""o-fil'ik",,lip,o,,,,,phil,ic,Pertaining to fat loving
+Microgram,mi'kro-gram,,micr,o,,,,,gram,,Millionth gram
+Milligram,mil'i-gram,,mill,,,,,,i,gram,Thousandth gram
+Milliliter,"mil'i-le""ter",,mill,i,liter,,,,,,Thousandth liter
+Parasitic,"par""uh-sit'ik",,parasit,,,,,,ic,,Pertaining to parasite
+Parasiticide,"par""uh-sit'i-sid",,parasit,,,,,,i,cide,A parasite killer
+Parenteral,par-en'ter-al,,par,,enter,,,,al,,Beside intestine (injection)
+Percent,per-sent',per,cent,,,,,,,,For each hundred
+Pesticide,pes'ti-sid,,pest,,,,,,i,cide,A pest killer
+Pharmacodynamics,"fahr""muh-ko-di-nam'iks",,pharmac,o,dynam,,ics,,,,Drug power/action
+Pharmacokinetics,"fahr""muh-ko-ki-net'iks",,pharmac,o,kinet,,ics,,,,Drug movement
+Pharmacology,"fahr""muh-kol'uh-je",,pharmac,o,logy,,,,,,Study of drugs
+Placebo,pluh-se'bo,,placebo,,,,,,,,I shall please (dummy treatment)
+Posology,po-sol'uh-je,,pos,o,logy,,,,,,Study of dose
+Prophylactic,"pro""fi-lak'tik",,pro,,phylact,,,,ic,,Pertaining to guarding before
+Prophylaxis,"pro""fi-lak'sis",,pro,,phylaxis,,,,,,Guarding before (prevention)
+Sedative,sed'uh-tiv,,sedat,,,,,,ive,,Pertaining to calming
+Subcutaneous,"sub""kyoo-ta'ne-us",sub,cutane,,,,,,ous,,Pertaining to under skin
+Therapeutic,"ther""uh-pyoo'tik",,therapeut,,,,,,ic,,Pertaining to treatment
+Tolerance,tol'er-ans,,toler,,ance,,,,,,State of enduring
+Toxic,tok'sik,,tox,,,,,,ic,,Pertaining to poison
+Toxicology,"tok""si-kol'uh-je",,toxic,o,logy,,,,,,Study of poisons
+Transdermal,trans-der'mul,trans,derm,,,,,,al,,Pertaining to across skin
+Virucidal,"vi""roo-si'dul",,vir,u,cid,,,,al,,Pertaining to virus killing
+Zoonosis,"zo""o-no'sis",,zo,o,nos,,,,is,,Animal disease (in humans)
